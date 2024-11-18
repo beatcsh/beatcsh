@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy beatcsh, un desarrollador joven y entusiasta de México, con 21 años y muchas ganas de aprender y destacar en el mundo de la tecnología. Me apasiona crear soluciones eficientes y mejorar constantemente mis habilidades. Disfruto colaborar y conectar con otros desarrolladores, siempre estoy en búsqueda de nuevos conocimientos y experiencias en programación.
+¡Hola! Soy José de J. Sanchez (@beatcsh), un desarrollador joven y entusiasta de México, con 21 años y muchas ganas de aprender y destacar en el mundo de la tecnología. Me apasiona crear soluciones eficientes y mejorar constantemente mis habilidades. Disfruto colaborar y conectar con otros desarrolladores, siempre estoy en búsqueda de nuevos conocimientos y experiencias en programación.
 
 
 ## 🌐 Socials:
