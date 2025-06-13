@@ -1,6 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy José de J. Sanchez (@beatcsh), un desarrollador joven y entusiasta de México, con 21 años y muchas ganas de aprender y destacar en el mundo de la tecnología. Me apasiona crear soluciones eficientes y mejorar constantemente mis habilidades. Disfruto colaborar y conectar con otros desarrolladores, siempre estoy en búsqueda de nuevos conocimientos y experiencias en programación.
-
+Hi! I'm Jose de J. Sanchez (@beatcsh), a young and enthusiastic developer from Mexico, 21 years old and eager to learn and excel in the world of technology. I'm passionate about creating efficient solutions and constantly improving my skills. I enjoy collaborating and connecting with other developers, I'm always looking for new knowledge and experiences in programming.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/beatcshz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/j-de-jes%C3%BAs-s-hern%C3%A1ndez-9b6968300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
