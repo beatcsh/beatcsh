@@ -3,7 +3,15 @@
 <p align="center">
   <img  src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=00d9ff&center=true&width=520&lines=Software+Engineer;Fullstack+Developer+Jr." alt="Typing SVG" />
 </p>
+<div align="center">
 
+  <img src="https://www.thoughtco.com/thmb/zu1-mSqTg1AlDHnYudXmIHKpgp4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pexels-photo-270348-598f140868e1a20011c6ec6b.jpg" width="28%" />
+  &nbsp;
+  <img src="https://s1.significados.com/foto/software-og.jpg?class=ogImageRectangle" width="40%" />
+  &nbsp;
+  <img src="https://img.datacentermarket.es/wp-content/uploads/2025/01/16110626/Bases-de-datos-como-Servicio-1.jpeg" width="28%" />
+
+</div>
 <p align="center">
   <a href="https://linkedin.com/in/josé-de-jesús-sanchez-hernández-9b6968300">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
