@@ -11,9 +11,8 @@
 
 ## ⚡ About Me
 
-I build technology solutions in different branches. Now I'm focus on create systems and applications for companies.
+<p align="center">Software Engineer focused on building web applications, digital solutions and apply scalable software architectures.</p>
 
-- 💼 LinkedIn: https://linkedin.com/in/josé-de-jesús-sanchez-hernández-9b6968300
 - ✉️ Email: josusssanher@gmail.com
 - 📍 Location: Aguascalientes, Mexico
 
@@ -52,4 +51,8 @@ I build technology solutions in different branches. Now I'm focus on create syst
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=beatcsh&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beatcsh/beatcsh/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beatcsh/beatcsh/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/beatcsh/beatcsh/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
