@@ -5,11 +5,30 @@
 </p>
 <div align="center">
 
-  <img src="https://www.thoughtco.com/thmb/zu1-mSqTg1AlDHnYudXmIHKpgp4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pexels-photo-270348-598f140868e1a20011c6ec6b.jpg" width="28%" />
+  <img
+    src="https://www.thoughtco.com/thmb/zu1-mSqTg1AlDHnYudXmIHKpgp4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pexels-photo-270348-598f140868e1a20011c6ec6b.jpg"
+    width="30%"
+    height="200"
+    style="object-fit: cover;"
+  />
+
   &nbsp;
-  <img src="https://s1.significados.com/foto/software-og.jpg?class=ogImageRectangle" width="40%" />
+
+  <img
+    src="https://s1.significados.com/foto/software-og.jpg?class=ogImageRectangle"
+    width="30%"
+    height="200"
+    style="object-fit: cover;"
+  />
+
   &nbsp;
-  <img src="https://img.datacentermarket.es/wp-content/uploads/2025/01/16110626/Bases-de-datos-como-Servicio-1.jpeg" width="28%" />
+
+  <img
+    src="https://img.datacentermarket.es/wp-content/uploads/2025/01/16110626/Bases-de-datos-como-Servicio-1.jpeg"
+    width="30%"
+    height="200"
+    style="object-fit: cover;"
+  />
 
 </div>
 <p align="center">
