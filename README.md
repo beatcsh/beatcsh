@@ -1,30 +1,5 @@
-<h1 align="center">Hi, I'm Jesús Sanchez</h1>
-
-<p align="center">
-  <img  src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&center=true&color=453C96&width=520&lines=Software+Engineer;Fullstack+Developer+Jr." alt="Typing SVG" />
-</p>
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-<br clear="both">
-
-<div data-importer="socials" align="center">
-  <a href="https://linkedin.com/in/josé-de-jesús-sanchez-hernández-9b6968300" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:josusssanher@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://discordapp.com/users/608159009253359756" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
-<br>
-
-<h2 align="left"> ⚡ About Me</h2>
-
-<p align="left">Software Engineer focused on building web applications, digital solutions and apply scalable software architectures.</p>
-
+<img src="./banner_js.png" width="100%" alt="Banner" />
+<p align="left">Software Engineer specializing in web development, digital solutions, and scalable software architectures. Right now I'm working with Python, C#, React and Docker.</p>
 <p align="left">✉️ Email: josusssanher@gmail.com 📍 Location: Aguascalientes, Mexico</p>
 <br>
 
@@ -71,3 +46,5 @@
     alt="GitHub streak"
   />
 </div>
+<br>
+
