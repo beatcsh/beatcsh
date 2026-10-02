@@ -13,8 +13,7 @@
 
 <p align="center">Software Engineer focused on building web applications, digital solutions and apply scalable software architectures.</p>
 
-- ✉️ Email: josusssanher@gmail.com
-- 📍 Location: Aguascalientes, Mexico
+<p align="center">✉️ Email: josusssanher@gmail.com 📍 Location: Aguascalientes, Mexico</p>
 
 <h2 align="center">⚙️ Tech Stack</h2>
 
