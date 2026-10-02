@@ -83,3 +83,8 @@
     alt="GitHub streak"
   />
 </div>
+
+<br>
+<img data-importer="snake" src="https://raw.githubusercontent.com/beatcsh/beatcsh/snake-output/snake.svg" alt="Snake animation" />
+
+###
