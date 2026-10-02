@@ -12,12 +12,14 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+<br>
 
 <h2 align="center"> ⚡ About Me</h2>
 
 <p align="center">Software Engineer focused on building web applications, digital solutions and apply scalable software architectures.</p>
 
 <p align="center">✉️ Email: josusssanher@gmail.com 📍 Location: Aguascalientes, Mexico</p>
+<br>
 
 <h2 align="center">⚙️ Tech Stack</h2>
 
@@ -46,6 +48,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
+<br>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
