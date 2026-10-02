@@ -1,7 +1,6 @@
 <img src="./banner_js.png" width="100%" alt="Banner" />
 <p align="left">Software Engineer specializing in web development, digital solutions, and scalable software architectures. Right now I'm working with Python, C#, React and Docker.</p>
 <p align="left">✉️ Email: josusssanher@gmail.com 📍 Location: Aguascalientes, Mexico</p>
-<br>
 
 <h2 align="left">Tech Stack</h2>
 
