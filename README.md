@@ -1,26 +1,14 @@
-<h1 align="left">⚡ Hi, I'm Jesús Sanchez</h1>
+<h1 align="center">Hi, I'm Jesús Sanchez</h1>
 
-<p align="left">
-  <img  src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=00d9ff&width=520&lines=Software+Engineer;Fullstack+Developer+Jr." alt="Typing SVG" />
+<p align="center">
+  <img  src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&center=true&color=453C96&width=520&lines=Software+Engineer;Fullstack+Developer+Jr." alt="Typing SVG" />
 </p>
-<div align="left">
-
-  <img
-    src="https://www.thoughtco.com/thmb/zu1-mSqTg1AlDHnYudXmIHKpgp4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pexels-photo-270348-598f140868e1a20011c6ec6b.jpg"
-    width="33%"
-    height="220"
-    style="object-fit: cover;"
-  /><img
-    src="https://img.datacentermarket.es/wp-content/uploads/2025/01/16110626/Bases-de-datos-como-Servicio-1.jpeg"
-    width="33%"
-    height="220"
-    style="object-fit: cover;"
-  />
-
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 <br clear="both">
 
-<div data-importer="socials" align="left">
+<div data-importer="socials" align="center">
   <a href="https://linkedin.com/in/josé-de-jesús-sanchez-hernández-9b6968300" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -83,8 +71,3 @@
     alt="GitHub streak"
   />
 </div>
-
-<br>
-<img data-importer="snake" src="https://raw.githubusercontent.com/beatcsh/beatcsh/snake-output/snake.svg" alt="Snake animation" />
-
-###
