@@ -43,23 +43,21 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=beatcsh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</p>
+<div align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=beatcsh&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub stats"
+  />
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=beatcsh&theme=tokyonight&hide_border=true"
+    alt="GitHub streak"
+  />
+</div>
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img  src="https://streak-stats.demolab.com?user=beatcsh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-<p align="center">
-  <i>Generated with GitHub Profile Styler</i>
-</p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=beatcsh&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
