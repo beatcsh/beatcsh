@@ -57,14 +57,3 @@
     alt="GitHub streak"
   />
 </div>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=beatcsh&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=beatcsh&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beatcsh/beatcsh/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beatcsh/beatcsh/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/beatcsh/beatcsh/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
