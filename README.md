@@ -9,7 +9,7 @@
   <a href="mailto:josusssanher@gmail.com"><img src="https://img.shields.io/badge/Email-00d9ff?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-## ⚡ About Me
+<h2 align="center"> ⚡ About Me</h2>
 
 <p align="center">Software Engineer focused on building web applications, digital solutions and apply scalable software architectures.</p>
 
