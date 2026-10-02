@@ -1,7 +1,7 @@
 <h1 align="left">⚡ Hi, I'm Jesús Sanchez</h1>
 
 <p align="left">
-  <img  src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=00d9ff&center=true&width=520&lines=Software+Engineer;Fullstack+Developer+Jr." alt="Typing SVG" />
+  <img  src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=00d9ff&width=520&lines=Software+Engineer;Fullstack+Developer+Jr." alt="Typing SVG" />
 </p>
 <div align="left">
 
