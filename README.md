@@ -11,11 +11,6 @@
     height="220"
     style="object-fit: cover;"
   /><img
-    src="https://s1.significados.com/foto/software-og.jpg?class=ogImageRectangle"
-    width="33%"
-    height="220"
-    style="object-fit: cover;"
-  /><img
     src="https://img.datacentermarket.es/wp-content/uploads/2025/01/16110626/Bases-de-datos-como-Servicio-1.jpeg"
     width="33%"
     height="220"
