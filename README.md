@@ -46,3 +46,5 @@
   />
 </div>
 <br>
+
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31xj4qen6435d4x7tafiysy5wq5a&count=1&width=600&radius=15&accent_color=e2a9f1&logo_color=e2a9f1)
